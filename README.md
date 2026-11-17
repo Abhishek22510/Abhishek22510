@@ -42,7 +42,7 @@ An offline SOC investigation tool built with Python and Streamlit that:
 <a href="mailto:abhishekghate19@gmail.com">
     <img src="https://img.shields.io/badge/Email-abhishekghate19%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/Abhishek22510">
     <img src="https://img.shields.io/badge/GitHub-Abhishek%20Ghate-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p> <h3 align="left">Languages and Tools:</h3> <p align="left">
